@@ -19,7 +19,7 @@
 
   .container-secondary {
     width: 50px;
-    height: 550px;
+    height: 130vw;
     background-color: transparent;
     display: flex;
     flex-direction: column;
